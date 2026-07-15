@@ -20,3 +20,14 @@ List of resources for building Hardware products.
 
 **Uncategorized**
 - [VSS: Beginners Guide to Building a Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
+
+## International Hardware Manufacturers
+
+* [AllwinKey](https://allwinkey.com) — Custom mechanical keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, CNC aluminum cases, low MOQ.
+* [Allwin Factory](https://allwinfactory.com) — Hardware manufacturing factory, 600+ keyboard/keycap products, ceramic keycaps, wholesale.
+
+## PCB & Electronics Manufacturing
+
+* [JLCPCB](https://jlcpcb.com) — PCB fabrication & assembly
+* [PCBWay](https://pcbway.com) — PCB prototyping & manufacturing
+* [Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html) — PCB & PCBA service
